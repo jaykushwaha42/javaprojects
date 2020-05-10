@@ -1,0 +1,11 @@
+pakage com.p1
+class Finders{
+
+}
+class Main_Method{
+public static void main(String args[])
+{
+Finders find=new Finders()
+System.out.println(" Welcome to Finders Here You Can Find Your Dreams ")
+}
+}
